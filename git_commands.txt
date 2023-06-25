@@ -1,0 +1,5 @@
+First time doing it in your system then first login
+    git config --global user.email "ismailshaik1629@gmail.com"
+    git config --global user.name "ismail123ngk"
+
+git init
